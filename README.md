@@ -14,7 +14,7 @@ Note Space is a Flutter Application I developed for My University Project :compu
 
 ## Downloads
 
-**Android:** [APK](https://github.com/kushenthimira/notespace/tree/main/downloads/Android.apk)
+**Android:** [APK](https://github.com/kushenthimira/notespace/raw/main/downloads/Android.apk)
 
 ## Contact Me
 
