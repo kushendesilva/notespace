@@ -1,4 +1,4 @@
-## Note Space <img src="/assets/images/logo.png" alt="Preview" width="50" />
+## Note Space
 
 Note Space is a Flutter Application I developed for My University Project :computer:
 
@@ -14,7 +14,7 @@ Note Space is a Flutter Application I developed for My University Project :compu
 
 ## Downloads
 
-**Android:** [APK](https://github.com/kushenthimira/notespace/releases/download/v1.0/Android.apk)
+**Android:** [APK](https://github.com/kushenthimira/notespace/releases/download/v1.3.0/notespace.apk)
 
 ## Contact Me
 
