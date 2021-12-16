@@ -52,13 +52,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  flutter_launcher_icons: "^0.9.0"
+  flutter_launcher_icons: ^0.9.2
 
 flutter_icons:
-  image_path: "assets/images/logo.png"
   android: true
   ios: true
+  image_path: "assets/images/logo.png"
+  adaptive_icon_background: "#5e00c5"
+  adaptive_icon_foreground: "assets/images/foreground.png"
   # optionally, as transparency is not allowed on app store
   # remove_alpha_ios: true
 # For information on the generic Dart part of this file, see the
