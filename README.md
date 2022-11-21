@@ -2,6 +2,7 @@
 <p align="center"><em>Note Space..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p><br>
 
+- 📱 Downloadable APK available <a href="https://github.com/kushendesilva/notespace/releases/download/v1.3.0/notespace.apk" target="blank">**here**</a>
 - 🌐 Personal Website - **https://kushen.tech**
 - 📫 How to reach me - **kushendesilva@gmail.com**
 
